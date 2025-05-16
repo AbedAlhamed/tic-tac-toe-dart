@@ -7,7 +7,7 @@ Two players alternate turns to mark `X` or `O` on a 3x3 board.
 
 - Dart SDK: [Install Dart](https://dart.dev/get-dart)
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository or download the files.
 
